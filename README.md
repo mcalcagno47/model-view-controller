@@ -1,6 +1,4 @@
-# model-view-controller
-
-# 14 Model-View-Controller (MVC): Tech Blog
+# Model-View-Controller (MVC): Tech Blog
 
 ## Your Task
 
