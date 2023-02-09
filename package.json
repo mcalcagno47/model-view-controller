@@ -11,14 +11,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/jaya4ever/tech-blog.git"
+        "url": "https://github.com/mcalcagno47/model-view-controller"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/jaya4ever/tech-blog/issues"
+        "url": "https://github.com/mcalcagno47/model-view-controller"
     },
-    "homepage": "https://github.com/jaya4ever/tech-blog#readme",
+
     "dependencies": {
         "bcrypt": "^5.1.0",
         "connect-session-sequelize": "^7.1.5",

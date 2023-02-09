@@ -25,17 +25,18 @@
     <h1 class="app-title"><a href="/">The Tech Blog</a></h1>
   </header>
 
-<main>
-  {{{ body }}}
-</main>
+  <main>
+    {{{ body }}}
+  </main>
 
 
-{{#if loggedIn}}
-<script src="/js/logout.js"></script>
- {{/if}} 
+  {{#if loggedIn}}
+  <script src="/js/logout.js"></script>
+  {{/if}}
 
- <footer class="flex-row justify-center">
-    &copy;<script>document.write(new Date().getFullYear());</script>Jaya Singh
+  <footer class="flex-row justify-center">
+    &copy;
+    <script>document.write(new Date().getFullYear());</script>
   </footer>
 </body>
 
