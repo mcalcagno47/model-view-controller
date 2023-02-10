@@ -18,9 +18,6 @@
     "bugs": {
         "url": "https://github.com/mcalcagno47/model-view-controller"
     },
-    "engines": {
-        "node": "14.17.3"
-    },
 
     "dependencies": {
         "bcrypt": "^5.1.0",
